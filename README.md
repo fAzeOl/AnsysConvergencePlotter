@@ -53,7 +53,7 @@ plotter.run()
 ```
 
 Example of plot:
-![Alt text]()
+![Alt text](https://github.com/fAzeOl/AnsysConvergencePlotter/blob/main/Picture/PlotConvForce.png)
 
 ## Troubleshooting
 
