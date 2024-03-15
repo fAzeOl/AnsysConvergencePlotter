@@ -62,7 +62,3 @@ If you encounter any issues during installation or usage, please check the follo
 * Ensure that you have installed all required libraries listed in the Installing section.
 * Double-check the directory paths specified in the script to ensure they point to the correct locations.
 * Verify your Outlook email and make sure you have Outlook installed and running while the script is excecuting.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
